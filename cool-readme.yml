@@ -1,0 +1,18 @@
+user: lostmusician
+
+show: [summary, languages]
+
+count:
+  private: false
+  orgs: false
+
+look:
+  style: classic
+  color: github
+  animations: true
+  background: none
+  border: false
+
+cards:
+  languages:
+    count: 6
