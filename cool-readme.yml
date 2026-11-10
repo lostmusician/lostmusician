@@ -1,6 +1,6 @@
 user: lostmusician
 
-show: [summary, languages]
+show: [summary, languages, contributions, streaks]
 
 count:
   private: false
