@@ -1,5 +1,3 @@
-# Hi, I'm Ivan 👋
-
 Building apps and exploring ideas through code.
 
 - [Osoko](https://github.com/lostmusician/osoko) — improved Mac screenshots
